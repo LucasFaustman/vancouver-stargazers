@@ -17,7 +17,7 @@ My second attempt at making a web app using existing API's. Built with the NASAP
 
 I would further continue to optimize the layout on mobile. The mobile layout isn't perfect, but the fact that the API can sometimes be an image or video through me off with positioning.
 
-I would also create 2 event listeners, one for the get todays APOD button and another for historical APOD's,
+I would also create 2 event listeners, one for the get todays APOD button and another for historical APOD's.
 
 ## Lessons Learned:
 
