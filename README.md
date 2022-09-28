@@ -35,4 +35,4 @@ Local Freelance Makeup Artist: https://github.com/LucasFaustman/local-makeup-art
 
 My Small CRM : https://github.com/LucasFaustman/my-small-crm/tree/main
 
-Vancouver Life Hack Voter : https://github.com/LucasFaustman/life-hacks-project
+BillTrackr : https://github.com/Ash1eyC0des/bill-trackr
