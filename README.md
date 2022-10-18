@@ -36,3 +36,5 @@ Local Freelance Makeup Artist: https://github.com/LucasFaustman/local-makeup-art
 My Small CRM : https://github.com/LucasFaustman/my-small-crm/tree/main
 
 BillTrackr : https://github.com/Ash1eyC0des/bill-trackr
+
+Machine Learning Brand Guesser: https://machine-brand-guesser.herokuapp.com/
